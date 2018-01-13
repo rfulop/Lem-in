@@ -1,8 +1,8 @@
 # Lem-in
-Moving an ant colony - Graphs and maximum flow
+Moving an ant colony from one point to another in the least amount of time - Exploring graph traversal algorithms
 
 ## Project Overview
-This program takes as input a map of an ant colony in the form os a list of rooms and links between those rooms. The goal is to move ants from the source room to the sink room, and do it in the minimum number of turns possible, knowing that an ant can only move once per turn and that at any given time there can only be one ant per room (except for the source and the sink, where there can be as many ants as needed).
+This program takes as input a map of an ant colony in the form os a list of rooms and links between those rooms. The goal is to move ants from the source room to the sink room, and do it in the minimum number of turns possible, knowing that an ant can only move once per turn and that at any given time there can only be one ant per room.
 
 The map must be in the following format:
 
@@ -48,7 +48,7 @@ make && ./lemin
 
 ### Output :
 A line is a turn.
-L*x*-*y* wit *x* is the ant's id and *y* the room where the ant is. 
+L*x*-*y* with *x* is the ant's id and *y* the room where the ant is. 
 ```
 L1-3 L2-2
 L1-1 L2-1 L3-3 L4-2
