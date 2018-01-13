@@ -1,5 +1,5 @@
 # Lem-in
-Moving an ant colony from one point to another in the least amount of time - Exploring graph traversal algorithms
+Moving an ant colony from one point to another in the least amount of time - Exploring graph traversal algorithms <br/>
 Grade 117%
 
 ## Project Overview
