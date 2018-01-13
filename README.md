@@ -45,3 +45,15 @@ make && ./lemin
 1-2
 1-3
 ```
+
+### Output :
+A line is a turn.
+L*x*-*y* wit *x* is the ant's id and *y* the room where the ant is. 
+```
+L1-3 L2-2
+L1-1 L2-1 L3-3 L4-2
+L3-1 L4-1 L5-3 L6-2
+L5-1 L6-1 L7-3 L8-2
+L7-1 L8-1 L9-3 L10-2
+L9-1 L10-1
+```
