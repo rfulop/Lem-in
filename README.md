@@ -1,5 +1,6 @@
 # Lem-in
 Moving an ant colony from one point to another in the least amount of time - Exploring graph traversal algorithms
+Grade 117%
 
 ## Project Overview
 This program takes as input a map of an ant colony in the form os a list of rooms and links between those rooms. The goal is to move ants from the source room to the sink room, and do it in the minimum number of turns possible, knowing that an ant can only move once per turn and that at any given time there can only be one ant per room.
