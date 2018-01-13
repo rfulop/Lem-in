@@ -6,6 +6,7 @@ This program takes as input a map of an ant colony in the form os a list of room
 
 The map must be in the following format:
 
+```
 # comment   -> comment
 ##verbose   -> activate verbose output mode (optional)
 10          -> number of ants
@@ -18,6 +19,7 @@ end 0 0
 start-a     -> definition of a link between rooms
 a-b
 b-end
+```
 
 ## Usage:
 With a file :
